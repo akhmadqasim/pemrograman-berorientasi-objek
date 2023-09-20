@@ -1,6 +1,7 @@
 ------------------------------------------------------------------------
 Ini merupakan tugas Pemrograman Berorientasi Objek Universitas
-Mulawarman menggunakan bahasa Java dengan aplikasi Greenfoot
+Muhammadiyah Kalimantan Timur menggunakan bahasa Java dengan
+aplikasi Greenfoot
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Pemrograman Berorientasi Objek
